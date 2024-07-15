@@ -19,7 +19,7 @@ const App = () => {
         setval(e.target.value);
         
       }} />
-        <Typography variant="h1">Sum: {sum}</Typography>   
+        <Typography variant="h1"><p>Sum: {sum}</p></Typography>   
     </div>
   )
 }
